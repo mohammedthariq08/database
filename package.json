@@ -4,7 +4,7 @@
   "description": "Mock API using JSON Server",
   "main": "db.json",
   "scripts": {
-    "start": "json-server --watch db.json --port $PORT"
+    "start": "json-server --host 0.0.0.0 --watch db.json --port $PORT"
   },
   "dependencies": {
     "json-server": "^0.17.4"
