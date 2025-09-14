@@ -2,9 +2,9 @@
   "name": "database",
   "version": "1.0.0",
   "description": "Mock API using JSON Server",
-  "main": "db.json",
+  "main": "index.js",
   "scripts": {
-    "start": "json-server --host 0.0.0.0 --watch db.json --port $PORT"
+    "start": "node index.js"
   },
   "dependencies": {
     "json-server": "^0.17.4"
