@@ -5,9 +5,9 @@
       "user": {
         "id": 101,
         "username": "john_doe",
-        "profile_pic": "images/profilepic1.jpg"
+        "profile_pic": "/images/profilepic1.jpg"
       },
-      "image": "images/post1.jpg",
+      "image": "/images/post1.jpg",
       "caption": "Exploring the beauty of nature 🌲 #wanderlust",
       "Likes": 120,
       "comments": [
@@ -27,9 +27,9 @@
       "user": {
         "id": 102,
         "username": "emma_smith",
-        "profile_pic": "images/profilepic2.jpg"
+        "profile_pic": "/images/profilepic2.jpg"
       },
-      "image": "images/post1.jpg",
+      "image": "/images/post1.jpg",
       "caption": "Morning workout done right 💪 #fitlife",
       "Likes": 87,
       "comments": [
@@ -49,9 +49,9 @@
       "user": {
         "id": 103,
         "username": "mike_travel",
-        "profile_pic": "images/profilepic3.jpg"
+        "profile_pic": "/images/profilepic3.jpg"
       },
-      "image": "images/post3.jpg",
+      "image": "/images/post3.jpg",
       "caption": "Hiking adventures in the Alps 🏔️",
       "Likes": 200,
       "comments": [
@@ -70,28 +70,28 @@
   "profile": {
     "id": 101,
     "username": "keerthi_koo",
-    "profile_pic": "images/profilepic1.jpg"
+    "profile_pic": "/images/profilepic1.jpg"
   },
   "sugessions": [
     {
       "id": "101",
       "username": "mike_travel",
-      "profile_pic": "images/post3.jpg"
+      "profile_pic": "/images/post3.jpg"
     },
     {
       "id": "102",
       "username": "emma_smith",
-      "profile_pic": "images/profilepic2.jpg"
+      "profile_pic": "/images/profilepic2.jpg"
     },
     {
       "id": "103",
       "username": "john_cena",
-      "profile_pic": "images/profilepic2.jpg"
+      "profile_pic": "/images/profilepic2.jpg"
     },
     {
       "id": "104",
       "username": "the_undertaker",
-      "profile_pic": "images/profilepic2.jpg"
+      "profile_pic": "/images/profilepic2.jpg"
     }
   ],
   "stories": [
@@ -100,39 +100,39 @@
       "user": {
         "id": 101,
         "username": "john_doe",
-        "profile_pic": "images/profilepic1.jpg"
+        "profile_pic": "/images/profilepic1.jpg"
       },
-      "image": "images/story1.jpg"
+      "image": "/images/story1.jpg"
     },
     {
       "id": "2",
       "user": {
         "id": 102,
         "username": "emma_smith",
-        "profile_pic": "images/profilepic2.jpg"
+        "profile_pic": "/images/profilepic2.jpg"
       },
-      "image": "images/story2.jpg"
+      "image": "/images/story2.jpg"
     },
     {
       "id": "3",
       "user": {
         "id": 103,
         "username": "mike_travel",
-        "profile_pic": "images/profilepic3.jpg"
+        "profile_pic": "/images/profilepic3.jpg"
       },
-      "image": "images/story3.jpg"
+      "image": "/images/story3.jpg"
     }
   ],
   "followers": [
     {
       "id": "102",
       "username": "joe_smith",
-      "profile_pic": "images/profilepic3.jpg"
+      "profile_pic": "/images/profilepic3.jpg"
     },
     {
       "id": "103",
       "username": "micheal_corleone",
-      "profile_pic": "images/profilepic3.jpg"
+      "profile_pic": "/images/profilepic3.jpg"
     },
     {
       "id": "102",
